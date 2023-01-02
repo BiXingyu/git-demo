@@ -3,3 +3,5 @@ hello git!
 hello git!
 hello git!
 hello git! hot-fix分支 初步优化了代码的运行缓慢问题
+
+hot-fix 增加了游戏功能
